@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  font-family: "Outfit";
+}
+
+.pricing__cards {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
